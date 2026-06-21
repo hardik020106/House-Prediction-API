@@ -23,8 +23,6 @@ The API is built with **FastAPI**, uses a saved **joblib** model, and provides b
 HOUSE-PREDICTION-API/
 ├── requirements.txt
 ├── explore.py
-├── feature_names.joblib
-├── house_price_model.joblib
 ├── main.py
 ├── train.py
 └── README.md
